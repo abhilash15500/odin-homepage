@@ -3,9 +3,10 @@
     src: url("./assets/fonts/Coffee-extra.otf");
 }
 
-* {
+
+* { 
     padding: 0;
-    margin: 0;
+    margin: 0; 
     box-sizing: border-box;
     font-family: "Coffee-extra", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -37,12 +38,13 @@ html {
     justify-content: center;
     background-image: linear-gradient(169deg, orangered 70%, white calc(70% + 2px));
     overflow-x: hidden;
+    
 
 }
 
 .hero-image-container {
     position: absolute;
-    left: -67.4%;
+    left: -66.4%;
     height: 125%;
     width: 30vw;
     top: -12.5%;
@@ -215,10 +217,10 @@ html {
 
 .footer-image-div {
     /* border: 2px solid black; */
-    height: 40vh;
+    height: 20vh;
     width: 35%;
     margin: 2%;
-    object-fit: fill;
+    object-fit: contain;
 }
 
 .footer-image {
@@ -485,6 +487,7 @@ html {
     .footer-image-div {
         width: 95%;
         padding: 5%;
+        height: 20%;
     }
 
 
