@@ -18,4 +18,4 @@ cat catching mouse - https://unsplash.com/photos/a-cat-lying-in-the-grass-5-Wcz1
 
 cat in box- https://unsplash.com/photos/orange-tabby-cat-on-brown-cardboard-box-An1yJcDwYGg
 
-footer image - https://unsplash.com/photos/a-cat-is-sleeping-on-a-fluffy-white-blanket-qGheSe6xIVY
+footer image - https://unsplash.com/photos/orange-and-white-cat-on-black-background-rw50AXpyuJY
