@@ -239,12 +239,6 @@ html {
     margin-bottom: 2%;
 }
 
-.attr {
-    font-size: 0.7rem;
-    margin-left: 1%;
-}
-
-
 /* MEDIA QUERIES */
 @media (max-width: 900px) {
     .hero-image-container {
