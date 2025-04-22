@@ -43,3 +43,8 @@ All images are from [Unsplash](https://unsplash.com), with full credit to the re
 
 - **Footer Image**: [Cat on black background](https://unsplash.com/photos/orange-and-white-cat-on-black-background-rw50AXpyuJY)  
   by [Jaguar Yu](https://unsplash.com/@jaguaryu)
+
+
+## Icons 
+
+Icons by [Font Awesome](https://fontawesome.com)

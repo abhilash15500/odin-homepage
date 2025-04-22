@@ -239,6 +239,11 @@ html {
     margin-bottom: 2%;
 }
 
+.attr {
+    font-size: 0.7rem;
+    margin-left: 1%;
+}
+
 
 /* MEDIA QUERIES */
 @media (max-width: 900px) {
@@ -339,7 +344,7 @@ html {
         width: 95%;
         float: top;
         margin-top: -60%;
-        margin-left: 135%;
+        margin-left: 133%;
     }
 
     .about-me-div {
